@@ -1,0 +1,519 @@
+LocationID,National LGA Name 2021,State
+1,Wagga Wagga,NSW
+2,Hawkesbury,NSW
+3,Northern Midlands,Tas
+4,Armidale Regional,NSW
+5,Unknown,Vic
+6,Lockyer Valley,Qld
+7,Wakefield,SA
+8,Unknown,WA
+9,Southern Downs,Qld
+10,Brighton,Tas
+11,West Tamar,Tas
+12,Mid Murray,SA
+13,Blue Mountains,NSW
+14,Upper Lachlan,NSW
+15,Wattle Range,SA
+16,Cairns,Qld
+17,Unincorporated ACT,ACT
+18,Wollongong,NSW
+19,Penrith,NSW
+20,Upper Hunter,NSW
+21,South Burnett,Qld
+22,Mid-Western Regional,NSW
+23,Canterbury-Bankstown,NSW
+24,Unknown,NT
+25,Mitchell,Vic
+26,Greater Hume,NSW
+27,Barossa,SA
+28,Port Macquarie-Hastings,NSW
+29,Mackay,Qld
+30,Douglas,Qld
+31,Yankalilla,SA
+32,Logan,Qld
+33,Dorset,Tas
+34,Nambucca Valley,NSW
+35,Narromine,NSW
+36,Fraser Coast,Qld
+37,Unincorporated SA,SA
+38,Shellharbour,NSW
+39,Narrabri,NSW
+40,Cook,Qld
+41,Tenterfield,NSW
+42,Greater Bendigo,Vic
+43,Central Coast,NSW
+44,Tamworth Regional,NSW
+45,Whittlesea,Vic
+46,Hilltops,NSW
+47,Forbes,NSW
+48,Toowoomba,Qld
+49,Lake Macquarie,NSW
+50,Livingstone,Qld
+51,Blacktown,NSW
+52,Dubbo Regional,NSW
+53,Balranald,NSW
+54,Lockhart River,Qld
+55,Golden Plains,Vic
+56,Light,SA
+57,Ipswich,Qld
+58,Cassowary Coast,Qld
+59,Tumby Bay,SA
+60,Liverpool,NSW
+61,Cumberland,NSW
+62,Muswellbrook,NSW
+63,Moreton Bay,Qld
+64,Ballina,NSW
+65,Kyogle,NSW
+66,Bundaberg,Qld
+67,Melbourne,Vic
+68,Brisbane,Qld
+69,Snowy Valleys,NSW
+70,Whitsunday,Qld
+71,Fairfield,NSW
+72,Yass Valley,NSW
+73,Central Highlands (Qld),Qld
+74,The Hills,NSW
+75,Salisbury,SA
+76,Port Stephens,NSW
+77,Macedon Ranges,Vic
+78,Moyne,Vic
+79,Cardinia,Vic
+80,East Gippsland,Vic
+81,Hornsby,NSW
+82,Mareeba,Qld
+83,Mid-Coast,NSW
+84,Rockhampton,Qld
+85,Glenelg,Vic
+86,Western Downs,Qld
+87,Port Adelaide Enfield,SA
+88,Cabonne,NSW
+89,Gold Coast,Qld
+90,Frankston,Vic
+91,Moree Plains,NSW
+92,Parramatta,NSW
+93,Meander Valley,Tas
+94,Queanbeyan-Palerang Regional,NSW
+95,Snowy Monaro Regional,NSW
+96,Federation,NSW
+97,Unknown,ACT
+98,Cowra,NSW
+99,Goulburn Mulwaree,NSW
+100,Gympie,Qld
+101,Willoughby,NSW
+102,Shoalhaven,NSW
+103,Nillumbik,Vic
+104,Tatiara,SA
+105,Tweed,NSW
+106,Ararat,Vic
+107,Colac Otway,Vic
+108,McKinlay,Qld
+109,Singleton,NSW
+110,Gladstone,Qld
+111,Lithgow,NSW
+112,Campbelltown,NSW
+113,Sunshine Coast,Qld
+114,Warrumbungle,NSW
+115,Noosa,Qld
+116,Gawler,SA
+117,Alpine,Vic
+118,Baw Baw,Vic
+119,Isaac,Qld
+120,Maranoa,Qld
+121,Southern Grampians,Vic
+122,Cessnock,NSW
+123,Scenic Rim,Qld
+124,Somerset,Qld
+125,Hinchinbrook,Qld
+126,Stonnington,Vic
+127,Playford,SA
+128,Cobar,NSW
+129,Adelaide Hills,SA
+130,Bega Valley,NSW
+131,Tea Tree Gully,SA
+132,Kiama,NSW
+133,Wollondilly,NSW
+134,Casey,Vic
+135,Northern Areas,SA
+136,Tablelands,Qld
+137,Sydney,NSW
+138,Murrindindi,Vic
+139,Albury,NSW
+140,Boroondara,Vic
+141,Redland,Qld
+142,South Gippsland,Vic
+143,Yarra Ranges,Vic
+144,Surf Coast,Vic
+145,Mount Barker,SA
+146,Maitland,NSW
+147,Hobart,Tas
+148,Mitcham,SA
+149,Clarence Valley,NSW
+150,Adelaide,SA
+151,Clarence,Tas
+152,Lismore,NSW
+153,Greater Shepparton,Vic
+154,Moreland,Vic
+155,Narrandera,NSW
+156,Huon Valley,Tas
+157,Townsville,Qld
+158,Griffith,NSW
+159,Wodonga,Vic
+160,Darebin,Vic
+161,Ballarat,Vic
+162,Wingecarribee,NSW
+163,Maroondah,Vic
+164,North Burnett,Qld
+165,Mornington Peninsula,Vic
+166,Unley,SA
+167,Alexandrina,SA
+168,Melton,Vic
+169,Burdekin,Qld
+170,Knox,Vic
+171,Monash,Vic
+172,Unincorporated,NSW
+173,Barcaldine,Qld
+174,Wyndham,Vic
+175,Glen Innes Severn,NSW
+176,Northern Beaches,NSW
+177,Georges River,NSW
+178,Kingston (Vic.),Vic
+179,Manningham,Vic
+180,Bathurst Regional,NSW
+181,Wudinna,SA
+182,Inverell,NSW
+183,Brimbank,Vic
+184,Charles Sturt,SA
+185,Flinders (Tas.),Tas
+186,Burnie,Tas
+187,Greater Geelong,Vic
+188,Onkaparinga,SA
+189,Launceston,Tas
+190,Indigo,Vic
+191,Yarra,Vic
+192,Port Phillip,Vic
+193,Waratah-Wynyard,Tas
+194,Campaspe,Vic
+195,Barkly,NT
+196,Blayney,NSW
+197,Campbelltown (SA),SA
+198,Latrobe (Vic.),Vic
+199,Palmerston,NT
+200,Gunnedah,NSW
+201,Break O'Day,Tas
+202,Buloke,Vic
+203,West Wimmera,Vic
+204,Ku-ring-gai,NSW
+205,Warrnambool,Vic
+206,Berrigan,NSW
+207,Warren,NSW
+208,Victoria Daly,NT
+209,Moira,Vic
+210,Berri Barmera,SA
+211,Moonee Valley,Vic
+212,Litchfield,NT
+213,Greater Dandenong,Vic
+214,Inner West,NSW
+215,Whyalla,SA
+216,Mount Isa,Qld
+217,Maribyrnong,Vic
+218,Marion,SA
+219,Mildura,Vic
+220,Mansfield,Vic
+221,Charters Towers,Qld
+222,Richmond Valley,NSW
+223,Sutherland,NSW
+224,Hume,Vic
+225,Newcastle,NSW
+226,Glen Eira,Vic
+227,Yarriambiack,Vic
+228,Pyrenees,Vic
+229,Strathfield,NSW
+230,Bayside,NSW
+231,Coffs Harbour,NSW
+232,Murray Bridge,SA
+233,Murray River,NSW
+234,Camden,NSW
+235,Glenorchy,Tas
+236,Randwick,NSW
+237,Hunters Hill,NSW
+238,Wangaratta,Vic
+239,Parkes,NSW
+240,Byron,NSW
+241,Moorabool,Vic
+242,Benalla,Vic
+243,Bellingen,NSW
+244,Wellington,Vic
+245,Edward River,NSW
+246,Coorong,SA
+247,George Town,Tas
+248,Ryde,NSW
+249,Bass Coast,Vic
+250,Richmond,Qld
+251,Strathbogie,Vic
+252,Hay,NSW
+253,Weddin,NSW
+254,Lachlan,NSW
+255,Waverley,NSW
+256,Northern Grampians,Vic
+257,Horsham,Vic
+258,Adelaide Plains,SA
+259,Mount Remarkable,SA
+260,Gilgandra,NSW
+261,Goondiwindi,Qld
+262,Clare and Gilbert Valleys,SA
+263,West Torrens,SA
+264,Whitehorse,Vic
+265,Cloncurry,Qld
+266,Sorell,Tas
+267,Towong,Vic
+268,Grant,SA
+269,Hepburn,Vic
+270,Circular Head,Tas
+271,Swan Hill,Vic
+272,Murrumbidgee,NSW
+273,Orange,NSW
+274,Walkerville,SA
+275,Wentworth,NSW
+276,Tasman,Tas
+277,Latrobe (Tas.),Tas
+278,Port Augusta,SA
+279,Liverpool Plains,NSW
+280,Banana,Qld
+281,Loddon,Vic
+282,Eurobodalla,NSW
+283,Roper Gulf,NT
+284,Barunga West,SA
+285,West Coast,Tas
+286,Etheridge,Qld
+287,Bland,NSW
+288,Oberon,NSW
+289,Corangamite,Vic
+290,Yorke Peninsula,SA
+291,Derwent Valley,Tas
+292,Port Pirie,SA
+293,Devonport,Tas
+294,Flinders (Qld),Qld
+295,Burwood,NSW
+296,Alice Springs,NT
+297,Gwydir,NSW
+298,Banyule,Vic
+299,Coonamble,NSW
+300,Kempsey,NSW
+301,Carrathool,NSW
+302,Barcoo,Qld
+303,Hobsons Bay,Vic
+304,Temora,NSW
+305,Karoonda East Murray,SA
+306,Unincorporated Vic,Vic
+307,Gannawarra,Vic
+308,Ceduna,SA
+309,Darwin,NT
+310,Central Desert,NT
+311,Carpentaria,Qld
+312,Murweh,Qld
+313,Renmark Paringa,SA
+314,Loxton Waikerie,SA
+315,Central Coast (Tas.),Tas
+316,Norwood Payneham and St Peters,SA
+317,MacDonnell,NT
+318,Leeton,NSW
+319,Kingborough,Tas
+320,Copper Coast,SA
+321,Lockhart,NSW
+322,Naracoorte Lucindale,SA
+323,Southern Mallee,SA
+324,Kentish,Tas
+325,Goyder,SA
+326,Flinders Ranges,SA
+327,Junee,NSW
+328,Victor Harbor,SA
+329,Burnside,SA
+330,Coomalie,NT
+331,Mosman,NSW
+332,Glamorgan-Spring Bay,Tas
+333,Southern Midlands,Tas
+334,Mount Alexander,Vic
+335,North Sydney,NSW
+336,Woollahra,NSW
+337,Prospect,SA
+338,Katherine,NT
+339,Northern Peninsula Area,Qld
+340,Unincorporated NT,NT
+341,Orroroo Carrieton,SA
+342,Central Goldfields,Vic
+343,Central Darling,NSW
+344,Balonne,Qld
+345,Walgett,NSW
+346,Coolamon,NSW
+347,Bulloo,Qld
+348,Lane Cove,NSW
+349,Walcha,NSW
+350,Bogan,NSW
+351,Cleve,SA
+352,West Arnhem,NT
+353,King Island,Tas
+354,Kangaroo Island,SA
+355,Uralla,NSW
+356,Holdfast Bay,SA
+357,Brewarrina,NSW
+358,East Arnhem,NT
+359,Port Lincoln,SA
+360,Longreach,Qld
+361,Lower Eyre Peninsula,SA
+362,Dandaragan,WA
+363,York,WA
+364,Rockingham,WA
+365,Plantagenet,WA
+366,Kwinana,WA
+367,Murray,WA
+368,Dumbleyung,WA
+369,Port Hedland,WA
+370,Stirling,WA
+371,Robe,SA
+372,Cambridge,WA
+373,Swan,WA
+374,Wanneroo,WA
+375,Canning,WA
+376,Gosnells,WA
+377,Serpentine-Jarrahdale,WA
+378,Mandurah,WA
+379,Woodanilling,WA
+380,Dowerin,WA
+381,Kalgoorlie-Boulder,WA
+382,Greater Geraldton,WA
+383,Harvey,WA
+384,Bayswater,WA
+385,Doomadgee,Qld
+386,Croydon,Qld
+387,Albany,WA
+388,Central Highlands (Tas.),Tas
+389,Chittering,WA
+390,Perenjori,WA
+391,Mount Magnet,WA
+392,Donnybrook-Balingup,WA
+393,Hope Vale,Qld
+394,Augusta Margaret River,WA
+395,Vincent,WA
+396,Wickepin,WA
+397,Cockburn,WA
+398,Victoria Park,WA
+399,Armadale,WA
+400,Bunbury,WA
+401,Kalamunda,WA
+402,Gingin,WA
+403,Moora,WA
+404,Perth,WA
+405,Busselton,WA
+406,Williams,WA
+407,Quilpie,Qld
+408,Kojonup,WA
+409,Mount Marshall,WA
+410,Kingston (SA),SA
+411,Karratha,WA
+412,Elliston,SA
+413,Coolgardie,WA
+414,Derby-West Kimberley,WA
+415,Mundaring,WA
+416,Belmont,WA
+417,Nungarin,WA
+418,Bayside (Vic.),Vic
+419,Northam,WA
+420,Melville,WA
+421,Bassendean,WA
+422,Yilgarn,WA
+423,Broome,WA
+424,Chapman Valley,WA
+425,Broomehill-Tambellup,WA
+426,Meekatharra,WA
+427,Esperance,WA
+428,Capel,WA
+429,Dundas,WA
+430,Lake Grace,WA
+431,Dardanup,WA
+432,Kondinin,WA
+433,Kent,WA
+434,Canada Bay,NSW
+435,Wagin,WA
+436,Manjimup,WA
+437,Denmark,WA
+438,Boddington,WA
+439,Bruce Rock,WA
+440,Kulin,WA
+441,Cuballing,WA
+442,Dungog,NSW
+443,Carnarvon,WA
+444,Hindmarsh,Vic
+445,Wyndham-East Kimberley,WA
+446,Beverley,WA
+447,Ravensthorpe,WA
+448,Joondalup,WA
+449,Coober Pedy,SA
+450,Dalwallinu,WA
+451,Gnowangerup,WA
+452,Unknown,Tas
+453,Wongan-Ballidu,WA
+454,Collie,WA
+455,Cootamundra-Gundagai,NSW
+456,East Pilbara,WA
+457,Menzies,WA
+458,Halls Creek,WA
+459,Irwin,WA
+460,Yarrabah,Qld
+461,Pingelly,WA
+462,Cue,WA
+463,Quairading,WA
+464,Mornington,Qld
+465,Wandering,WA
+466,Nannup,WA
+467,Broken Hill,NSW
+468,Ngaanyatjarraku,WA
+469,Corrigin,WA
+470,Anangu Pitjantjatjara Yunkunytjatjara,SA
+471,Fremantle,WA
+472,Toodyay,WA
+473,Streaky Bay,SA
+474,Victoria Plains,WA
+475,Northampton,WA
+476,Bridgetown-Greenbushes,WA
+477,Kimba,SA
+478,Katanning,WA
+479,Jerramungup,WA
+480,Carnamah,WA
+481,Nambucca,NSW
+482,Ashburton,WA
+483,West Arthur,WA
+484,Mount Gambier,SA
+485,South Perth,WA
+486,Brookton,WA
+487,Burke,Qld
+488,Nedlands,WA
+489,Franklin Harbour,SA
+490,Waroona,WA
+491,Cunderdin,WA
+492,Cranbrook,WA
+493,Kellerberrin,WA
+494,Wagait,NT
+495,Weipa,Qld
+496,Pormpuraaw,Qld
+497,Bourke,NSW
+498,Palm Island,Qld
+499,West Daly,NT
+500,Mosman Park,WA
+501,Narrogin,WA
+502,Merredin,WA
+503,Westonia,WA
+504,Morawa,WA
+505,Claremont,WA
+506,Mingenew,WA
+507,Unknown,Qld
+508,Goomalling,WA
+509,Subiaco,WA
+510,Trayning,WA
+511,Shark Bay,WA
+512,Exmouth,WA
+513,Sandstone,WA
+514,Unknown,NSW
+515,Boyup Brook,WA
+516,Cottesloe,WA
+517,Leonora,WA
+518,Unknown,SA

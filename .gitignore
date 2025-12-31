@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / Editor
+.vscode/
+.idea/
+
+# Temporary / cache files
+*.log
+*.tmp
+*.bak
+
+# GeoJSON files (used only for Tableau mapping)
+*.geojson
+**/*.geojson
